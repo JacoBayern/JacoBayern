@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JacoBayern
+- 👀 I’m interested in learning all types of things about computers.
+- 🌱 I’m currently learning Typescript, React and NextJS
+- 📫 How to reach me: jesuscegarra157@outlook.com  
+- ⚡ Fun fact: Im a Associate Degree in Computer Science.
+-  --- if you want more professional information about me, please reach me. ---
